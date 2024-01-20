@@ -3,4 +3,6 @@
   Radhey Radhey!
 </p>
 <p align="center">
-Hidden 🙈💌gift for someone 💙
+<img alt="Version" src="https://img.shields.io/badge/Version-1.1-blue?style=for-the-badge&color=blue">
+
+Hidden 🙈💌gift for you 💙
