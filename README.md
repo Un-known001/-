@@ -3,6 +3,7 @@
   Radhey Radhey!
 </p>
 <p align="center">
-<img alt="Version" src="https://img.shields.io/badge/Version-1.1-blue?style=for-the-badge&color=blue">
+
+<img alt="Version" src="https://img.shields.io/badge/Mylove-01-blue?style=for-the-badge&color=blue">
 
 Hidden 🙈💌gift for you 💙
